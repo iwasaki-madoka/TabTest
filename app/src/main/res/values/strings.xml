@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TabTest</string>
+    <string name="record_menu">録画</string>
+    <string name="videolist_menu">動画一覧</string>
+    <string name="map_menu">地図</string>
+</resources>
